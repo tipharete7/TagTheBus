@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TagTheBus</string>
+    <string name="add_action">add Pictures</string>
+    <string name="title_activity_picture_detail">PictureDetailActivity</string>
+    <string name="title_label">Picture title : </string>
+    <string name="save_picture">Save</string>
+    <string name="toolBar_title">Tag The Bus !</string>
+    <string name="toolBar_title_detail">Add a title</string>
+
+
+
+</resources>
